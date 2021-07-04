@@ -52,8 +52,8 @@ export const desktopTitleStyle = {
     fontSize: '20px',
     display: 'flex',
     justifyContent: 'space-between',
-    padding: '5px 0 5px 20px',
-    fontFamily: 'Lato, sans-serif',
+    padding: '30px 10px 30px 40px',
+    fontFamily: 'Verdana, sans-serif',
     color: '#fff',
     cursor: 'pointer',
 };
