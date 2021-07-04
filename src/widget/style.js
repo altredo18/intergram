@@ -2,9 +2,9 @@
 export const desktopWrapperStyle = {
     position: 'fixed',
     bottom: '20px',
-    right: '20px',
+    right: '30px',
     zIndex: 2147483647,
-    borderRadius: '10px',
+    borderRadius: '0px',
     background: 'rgb(229, 229, 229)',
     boxSizing: 'content-box',
     boxShadow: '0px 0px 30px rgba(0, 0, 0, 0.5)',
