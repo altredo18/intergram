@@ -155,5 +155,7 @@ a.banner {
     text-align: right;
     font-weight: 200;
     visibility: hidden;
-    text-decoration: none
+    cursor: not-allowed;
+    pointer-events: none;
+    text-decoration: none;
 }
